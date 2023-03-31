@@ -48,7 +48,7 @@
         android:backgroundTint="#84CDBE"
         android:paddingVertical="15dp"
         android:text="@string/send"
-        android:textColor="#BF360C"
+        android:textColor="#22274E"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -61,7 +61,7 @@
         android:fontFamily="@font/poppins_bold"
         android:paddingVertical="15dp"
         android:text="@string/get_started"
-        android:textColor="#BF360C"
+        android:textColor="#22274E"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
